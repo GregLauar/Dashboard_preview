@@ -1,0 +1,324 @@
+﻿Deal;Date;Metric;Value;Threshold;Relationship;Status
+FIDC Capim;31/10/2023;Liquidity Ratio;37.25;1;>=;OK
+FIDC Capim;30/11/2023;Liquidity Ratio;43.05;1;>=;OK
+FIDC Capim;31/12/2023;Liquidity Ratio;64.46;1;>=;OK
+FIDC Capim;31/01/2024;Liquidity Ratio;55.82;1;>=;OK
+FIDC Capim;29/02/2024;Liquidity Ratio;63.41;1;>=;OK
+FIDC Capim;31/03/2024;Liquidity Ratio;70.32;1;>=;OK
+FIDC Capim;30/04/2024;Liquidity Ratio;90.71;1;>=;OK
+FIDC Capim;31/05/2024;Liquidity Ratio;76.21;1;>=;OK
+FIDC Capim;30/06/2024;Liquidity Ratio;60.46;1;>=;OK
+FIDC Capim;31/07/2024;Liquidity Ratio;45.38;1;>=;OK
+FIDC Capim;31/08/2024;Liquidity Ratio;37.11;1;>=;OK
+FIDC Capim;30/09/2024;Liquidity Ratio;30.45;1;>=;OK
+FIDC Capim;31/10/2024;Liquidity Ratio;39.44;1;>=;OK
+FIDC Capim;30/11/2024;Liquidity Ratio;41.54;1;>=;OK
+FIDC Capim;31/12/2024;Liquidity Ratio;40.95;1;>=;OK
+FIDC Capim;31/01/2025;Liquidity Ratio;45.41;1;>=;OK
+FIDC Capim;28/02/2025;Liquidity Ratio;48.1;1;>=;OK
+FIDC Capim;31/03/2025;Liquidity Ratio;46.8;1;>=;OK
+FIDC Capim;31/10/2023;Cancellation rate;0.005;0.05;<=;OK
+FIDC Capim;30/11/2023;Cancellation rate;0.0053;0.05;<=;OK
+FIDC Capim;31/12/2023;Cancellation rate;0.0037;0.05;<=;OK
+FIDC Capim;31/01/2024;Cancellation rate;0.0018;0.05;<=;OK
+FIDC Capim;29/02/2024;Cancellation rate;0.0052;0.05;<=;OK
+FIDC Capim;31/03/2024;Cancellation rate;0.003;0.05;<=;OK
+FIDC Capim;30/04/2024;Cancellation rate;0.0028;0.05;<=;OK
+FIDC Capim;31/05/2024;Cancellation rate;0.0028;0.05;<=;OK
+FIDC Capim;30/06/2024;Cancellation rate;0.0031;0.05;<=;OK
+FIDC Capim;31/07/2024;Cancellation rate;0.0039;0.05;<=;OK
+FIDC Capim;31/08/2024;Cancellation rate;0.0035;0.05;<=;OK
+FIDC Capim;30/09/2024;Cancellation rate;0.0025;0.05;<=;OK
+FIDC Capim;31/10/2024;Cancellation rate;0.0029;0.05;<=;OK
+FIDC Capim;30/11/2024;Cancellation rate;0.0027;0.05;<=;OK
+FIDC Capim;31/12/2024;Cancellation rate;0.0017;0.05;<=;OK
+FIDC Capim;31/01/2025;Cancellation rate;0.0018;0.05;<=;OK
+FIDC Capim;28/02/2025;Cancellation rate;0.0035;0.05;<=;OK
+FIDC Capim;31/03/2025;Cancellation rate;0.0021;0.05;<=;OK
+FIDC Capim;31/10/2023;Cash reserve;181280.62;181280.62;>=;OK
+FIDC Capim;30/11/2023;Cash reserve;206983.98;181281.62;>=;OK
+FIDC Capim;31/12/2023;Cash reserve;239991.96;181282.62;>=;OK
+FIDC Capim;31/01/2024;Cash reserve;257860.66;181283.62;>=;OK
+FIDC Capim;29/02/2024;Cash reserve;278297.07;181284.62;>=;OK
+FIDC Capim;31/03/2024;Cash reserve;305209.1;181285.62;>=;OK
+FIDC Capim;30/04/2024;Cash reserve;350624.77;181286.62;>=;OK
+FIDC Capim;31/05/2024;Cash reserve;351950.71;181287.62;>=;OK
+FIDC Capim;30/06/2024;Cash reserve;350267.56;181288.62;>=;OK
+FIDC Capim;31/07/2024;Cash reserve;351512.28;181289.62;>=;OK
+FIDC Capim;31/08/2024;Cash reserve;351961.24;181290.62;>=;OK
+FIDC Capim;30/09/2024;Cash reserve;352915.75;181291.62;>=;OK
+FIDC Capim;31/10/2024;Cash reserve;385506.34;181292.62;>=;OK
+FIDC Capim;30/11/2024;Cash reserve;396683.97;181293.62;>=;OK
+FIDC Capim;31/12/2024;Cash reserve;404918.59;181294.62;>=;OK
+FIDC Capim;31/01/2025;Cash reserve;420779.13;181295.62;>=;OK
+FIDC Capim;28/02/2025;Cash reserve;431060.16;181296.62;>=;OK
+FIDC Capim;31/03/2025;Cash reserve;443094.01;181297.62;>=;OK
+FIDC Capim;31/10/2023;Loss Index;0.0195;0.12;<=;OK
+FIDC Capim;30/11/2023;Loss Index;0.0314;0.12;<=;OK
+FIDC Capim;31/12/2023;Loss Index;0.0366;0.12;<=;OK
+FIDC Capim;31/01/2024;Loss Index;0.0421;0.12;<=;OK
+FIDC Capim;29/02/2024;Loss Index;0.0486;0.12;<=;OK
+FIDC Capim;31/03/2024;Loss Index;0.0594;0.12;<=;OK
+FIDC Capim;30/04/2024;Loss Index;0.0602;0.12;<=;OK
+FIDC Capim;31/05/2024;Loss Index;0.0635;0.12;<=;OK
+FIDC Capim;30/06/2024;Loss Index;0.066;0.12;<=;OK
+FIDC Capim;31/07/2024;Loss Index;0.068;0.12;<=;OK
+FIDC Capim;31/08/2024;Loss Index;0.0709;0.12;<=;OK
+FIDC Capim;30/09/2024;Loss Index;0.073;0.12;<=;OK
+FIDC Capim;31/10/2024;Loss Index;0.0749;0.12;<=;OK
+FIDC Capim;30/11/2024;Loss Index;0.0782;0.12;<=;OK
+FIDC Capim;31/12/2024;Loss Index;0.0797;0.12;<=;OK
+FIDC Capim;31/01/2025;Loss Index;0.0813;0.12;<=;OK
+FIDC Capim;28/02/2025;Loss Index;0.085;0.12;<=;OK
+FIDC Capim;31/03/2025;Loss Index;0.0878;0.12;<=;OK
+FIDC Fenix;30/04/2024;Delinquency F30;0.009647614;0.15;<=;OK
+FIDC Fenix;31/05/2024;Delinquency F30;0.035553747;0.15;<=;OK
+FIDC Fenix;30/06/2024;Delinquency F30;0.012115096;0.15;<=;OK
+FIDC Fenix;31/07/2024;Delinquency F30;0.014505017;0.15;<=;OK
+FIDC Fenix;31/08/2024;Delinquency F30;0.017175238;0.15;<=;OK
+FIDC Fenix;30/09/2024;Delinquency F30;0.020282077;0.15;<=;OK
+FIDC Fenix;31/10/2024;Delinquency F30;0.02260726;0.15;<=;OK
+FIDC Fenix;30/11/2024;Delinquency F30;0.023198872;0.15;<=;OK
+FIDC Fenix;31/12/2024;Delinquency F30;0.026911452;0.15;<=;OK
+FIDC Fenix;31/01/2025;Delinquency F30;0.031131497;0.15;<=;OK
+FIDC Fenix;28/02/2025;Delinquency F30;0.035832486;0.15;<=;OK
+FIDC Fenix;31/03/2025;Delinquency F30;0.04516275;0.15;<=;OK
+FIDC Fenix;30/04/2025;Delinquency F30;0.04926;0.15;<=;OK
+FIDC Fenix;30/04/2024;Delinquency F60;0.006123207;0.1;<=;OK
+FIDC Fenix;31/05/2024;Delinquency F60;0.008130579;0.1;<=;OK
+FIDC Fenix;30/06/2024;Delinquency F60;0.009453834;0.1;<=;OK
+FIDC Fenix;31/07/2024;Delinquency F60;0.011697875;0.1;<=;OK
+FIDC Fenix;31/08/2024;Delinquency F60;0.013881937;0.1;<=;OK
+FIDC Fenix;30/09/2024;Delinquency F60;0.01655129;0.1;<=;OK
+FIDC Fenix;31/10/2024;Delinquency F60;0.018831371;0.1;<=;OK
+FIDC Fenix;30/11/2024;Delinquency F60;0.019376392;0.1;<=;OK
+FIDC Fenix;31/12/2024;Delinquency F60;0.022590236;0.1;<=;OK
+FIDC Fenix;31/01/2025;Delinquency F60;0.026735367;0.1;<=;OK
+FIDC Fenix;28/02/2025;Delinquency F60;0.030819363;0.1;<=;OK
+FIDC Fenix;31/03/2025;Delinquency F60;0.038136501;0.1;<=;OK
+FIDC Fenix;30/04/2025;Delinquency F60;0.043;0.1;<=;OK
+FIDC Alume;30/04/2024;Debtor Concentration;0.004;0.2;<=;OK
+FIDC Alume;31/05/2024;Debtor Concentration;0.004;0.2;<=;OK
+FIDC Alume;30/06/2024;Debtor Concentration;0.003;0.2;<=;OK
+FIDC Alume;31/07/2024;Debtor Concentration;0.003;0.2;<=;OK
+FIDC Alume;31/08/2024;Debtor Concentration;0.003;0.2;<=;OK
+FIDC Alume;30/09/2024;Debtor Concentration;0.003;0.2;<=;OK
+FIDC Alume;31/10/2024;Debtor Concentration;0.003;0.2;<=;OK
+FIDC Alume;30/11/2024;Debtor Concentration;0.003;0.2;<=;OK
+FIDC Alume;31/12/2024;Debtor Concentration;0.003;0.2;<=;OK
+FIDC Alume;31/01/2025;Debtor Concentration;0.0028;0.2;<=;OK
+FIDC Alume;28/02/2025;Debtor Concentration;0.003;0.2;<=;OK
+FIDC Alume;31/03/2025;Debtor Concentration;0.0027;0.2;<=;OK
+FIDC Alume;30/04/2024;Allowance CCBs as a % of total CRs;0.448;0.55;<=;OK
+FIDC Alume;31/05/2024;Allowance CCBs as a % of total CRs;0.48;0.55;<=;OK
+FIDC Alume;30/06/2024;Allowance CCBs as a % of total CRs;0.444;0.55;<=;OK
+FIDC Alume;31/07/2024;Allowance CCBs as a % of total CRs;0.447;0.55;<=;OK
+FIDC Alume;31/08/2024;Allowance CCBs as a % of total CRs;0.473;0.55;<=;OK
+FIDC Alume;30/09/2024;Allowance CCBs as a % of total CRs;0.459;0.55;<=;OK
+FIDC Alume;31/10/2024;Allowance CCBs as a % of total CRs;0.454;0.55;<=;OK
+FIDC Alume;30/11/2024;Allowance CCBs as a % of total CRs;0.473;0.55;<=;OK
+FIDC Alume;31/12/2024;Allowance CCBs as a % of total CRs;0.439;0.55;<=;OK
+FIDC Alume;30/04/2024;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;31/05/2024;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;30/06/2024;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;31/07/2024;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;31/08/2024;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;30/09/2024;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;31/10/2024;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;30/11/2024;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;31/12/2024;Average fiscal term (calendar days);360;366;>=;FLAG
+FIDC Alume;31/01/2025;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;28/02/2025;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Alume;31/03/2025;Average fiscal term (calendar days);366;366;>=;OK
+FIDC Facio;31/07/2024;Over 15 MA40;0.1726;0.25;<=;OK
+FIDC Facio;31/08/2024;Over 15 MA40;0.1638;0.25;<=;OK
+FIDC Facio;30/09/2024;Over 15 MA40;0.1663;0.25;<=;OK
+FIDC Facio;31/10/2024;Over 15 MA40;0.1641;0.25;<=;OK
+FIDC Facio;30/11/2024;Over 15 MA40;0.1634;0.25;<=;OK
+FIDC Facio;31/12/2024;Over 15 MA40;0.1659;0.25;<=;OK
+FIDC Facio;31/01/2025;Over 15 MA40;0.163;0.25;<=;OK
+FIDC Facio;28/02/2025;Over 15 MA40;0.1682;0.25;<=;OK
+FIDC Facio;31/03/2025;Over 15 MA40;0.1742;0.25;<=;OK
+FIDC Facio;30/04/2025;Over 15 MA40;0.2228;0.25;<=;OK
+FIDC Facio;31/05/2025;Over 15 MA40;0.1952;0.25;<=;OK
+FIDC Facio;30/06/2025;Over 15 MA40;0.1861;0.25;<=;OK
+FIDC Facio;31/07/2024;Average Return 30d MA40;1.0507;0.95;>=;OK
+FIDC Facio;31/08/2024;Average Return 30d MA40;1.0609;0.95;>=;OK
+FIDC Facio;30/09/2024;Average Return 30d MA40;1.0662;0.95;>=;OK
+FIDC Facio;31/10/2024;Average Return 30d MA40;1.0695;0.95;>=;OK
+FIDC Facio;30/11/2024;Average Return 30d MA40;1.0702;0.95;>=;OK
+FIDC Facio;31/12/2024;Average Return 30d MA40;1.0673;0.95;>=;OK
+FIDC Facio;31/01/2025;Average Return 30d MA40;1.0785;0.95;>=;OK
+FIDC Facio;28/02/2025;Average Return 30d MA40;1.0771;0.95;>=;OK
+FIDC Facio;31/03/2025;Average Return 30d MA40;1.0733;0.95;>=;OK
+FIDC Facio;30/04/2025;Average Return 30d MA40;1.072;0.95;>=;OK
+FIDC Facio;31/05/2025;Average Return 30d MA40;1.0677;0.95;>=;OK
+FIDC Facio;30/06/2025;Average Return 30d MA40;1.0666;0.95;>=;OK
+FIDC Facio;30/04/2025;Senior Subordination;0.4623;0.4;>=;OK
+FIDC Facio;31/05/2025;Senior Subordination;0.4725;0.4;>=;OK
+FIDC Facio;30/06/2025;Senior Subordination;0.5349;0.4;>=;OK
+FIDC Facio;30/04/2025;Mezzanine Subordination;0.243;0.15;>=;OK
+FIDC Facio;31/05/2025;Mezzanine Subordination;0.2317;0.15;>=;OK
+FIDC Facio;30/06/2025;Mezzanine Subordination;0.3257;0.15;>=;OK
+FIDC Facio;31/05/2025;Return Index 30;1.0528;0.95;>=;OK
+FIDC Facio;30/06/2025;Return Index 30;1.0575;0.95;>=;OK
+FIDC Facio;30/04/2025;Weighted Average Portfolio Rate (% p.m.);0.2407;;;
+FIDC Facio;31/05/2025;Weighted Average Portfolio Rate (% p.m.);0.2177;;;
+FIDC Facio;30/06/2025;Weighted Average Portfolio Rate (% p.m.);0.2377;;;
+FIDC Facio;30/04/2025;Weighted Average Portfolio Maturity (days);10.87;;;
+FIDC Facio;31/05/2025;Weighted Average Portfolio Maturity (days);12.39;;;
+FIDC Facio;30/06/2025;Weighted Average Portfolio Maturity (days);12.22;;;
+FIDC Capim;30/06/2025;Liquidity Ratio;50.58;1;>=;OK
+FIDC Capim;31/05/2025;Liquidity Ratio;48.85;1;>=;OK
+FIDC Capim;30/04/2025;Liquidity Ratio;48.31;1;>=;OK
+FIDC Capim;30/06/2025;Cancellation rate;0.0019;0.05;<=;OK
+FIDC Capim;31/05/2025;Cancellation rate;0.0018;0.05;<=;OK
+FIDC Capim;30/04/2025;Cancellation rate;0.0019;0.05;<=;OK
+FIDC Capim;30/06/2025;Cash reserve;477646.77;181297.62;>=;OK
+FIDC Capim;31/05/2025;Cash reserve;463777.18;181297.62;>=;OK
+FIDC Capim;30/04/2025;Cash reserve;456754.34;181297.62;>=;OK
+FIDC Capim;30/06/2025;Loss Index;0.107;0.12;<=;OK
+FIDC Capim;31/05/2025;Loss Index;0.0994;0.12;<=;OK
+FIDC Capim;30/04/2025;Loss Index;0.0921;0.12;<=;OK
+FIDC Fenix;30/06/2025;Delinquency F30;0.0634049;0.15;<=;OK
+FIDC Fenix;31/05/2025;Delinquency F30;0.0533;0.15;<=;OK
+FIDC Fenix;30/06/2025;Delinquency F60;0.055;0.1;<=;OK
+FIDC Fenix;31/05/2025;Delinquency F60;0.048;0.1;<=;OK
+FIDC Fenix;30/04/2024;Weighted Average Portfolio Rate (% p.m.);0.025452;;;OK
+FIDC Fenix;31/05/2024;Weighted Average Portfolio Rate (% p.m.);0.025305;;;OK
+FIDC Fenix;30/06/2024;Weighted Average Portfolio Rate (% p.m.);0.035047;;;OK
+FIDC Fenix;31/07/2024;Weighted Average Portfolio Rate (% p.m.);0.035;;;OK
+FIDC Fenix;31/08/2024;Weighted Average Portfolio Rate (% p.m.);0.0345;;;OK
+FIDC Fenix;30/09/2024;Weighted Average Portfolio Rate (% p.m.);0.0344;;;OK
+FIDC Fenix;31/10/2024;Weighted Average Portfolio Rate (% p.m.);0.0336;;;OK
+FIDC Fenix;30/11/2024;Weighted Average Portfolio Rate (% p.m.);0.034;;;OK
+FIDC Fenix;31/12/2024;Weighted Average Portfolio Rate (% p.m.);0.0333;;;OK
+FIDC Fenix;31/01/2025;Weighted Average Portfolio Rate (% p.m.);0.0329;;;OK
+FIDC Fenix;28/02/2025;Weighted Average Portfolio Rate (% p.m.);0.0323;;;OK
+FIDC Fenix;31/03/2025;Weighted Average Portfolio Rate (% p.m.);0.0323;;;OK
+FIDC Fenix;30/04/2025;Weighted Average Portfolio Rate (% p.m.);0.0313;;;OK
+FIDC Fenix;31/05/2024;Weighted Average Portfolio Rate (% p.m.);0.0311;;;OK
+FIDC Fenix;30/06/2024;Weighted Average Portfolio Rate (% p.m.);0.0307;;;OK
+FIDC Fenix;30/04/2024;Weighted Average Portfolio Maturity (months);18.86;;;OK
+FIDC Fenix;31/05/2024;Weighted Average Portfolio Maturity (months);19.29;;;OK
+FIDC Fenix;30/06/2024;Weighted Average Portfolio Maturity (months);22.85;;;OK
+FIDC Fenix;31/07/2024;Weighted Average Portfolio Maturity (months);23.04;;;OK
+FIDC Fenix;31/08/2024;Weighted Average Portfolio Maturity (months);23.15;;;OK
+FIDC Fenix;30/09/2024;Weighted Average Portfolio Maturity (months);23.28;;;OK
+FIDC Fenix;31/10/2024;Weighted Average Portfolio Maturity (months);23.36;;;OK
+FIDC Fenix;30/11/2024;Weighted Average Portfolio Maturity (months);23.6;;;OK
+FIDC Fenix;31/12/2024;Weighted Average Portfolio Maturity (months);24.34;;;OK
+FIDC Fenix;31/01/2025;Weighted Average Portfolio Maturity (months);24.44;;;OK
+FIDC Fenix;28/02/2025;Weighted Average Portfolio Maturity (months);15.4;;;OK
+FIDC Fenix;31/03/2025;Weighted Average Portfolio Maturity (months);15.65;;;OK
+FIDC Fenix;30/04/2025;Weighted Average Portfolio Maturity (months);15.32;;;OK
+FIDC Fenix;31/05/2024;Weighted Average Portfolio Maturity (months);14.72;;;OK
+FIDC Fenix;30/06/2024;Weighted Average Portfolio Maturity (months);13.95;;;OK
+FIDC Fenix;30/04/2024;Average Ticket;5229.43;;;OK
+FIDC Fenix;31/05/2024;Average Ticket;5665.54;;;OK
+FIDC Fenix;30/06/2024;Average Ticket;6903.56;;;OK
+FIDC Fenix;31/07/2024;Average Ticket;7023.72;;;OK
+FIDC Fenix;31/08/2024;Average Ticket;7173.1;;;OK
+FIDC Fenix;30/09/2024;Average Ticket;8543.44;;;OK
+FIDC Fenix;31/10/2024;Average Ticket;8744.96;;;OK
+FIDC Fenix;30/11/2024;Average Ticket;8992.66;;;OK
+FIDC Fenix;31/12/2024;Average Ticket;9052.35;;;OK
+FIDC Fenix;31/01/2025;Average Ticket;9225.16;;;OK
+FIDC Fenix;28/02/2025;Average Ticket;9376.74;;;OK
+FIDC Fenix;31/03/2025;Average Ticket;8807.01;;;OK
+FIDC Fenix;30/04/2025;Average Ticket;8784.03;;;OK
+FIDC Fenix;31/05/2024;Average Ticket;9339.42;;;OK
+FIDC Fenix;30/06/2024;Average Ticket;9624.66;;;OK
+FIDC Koin;31/10/2024;Repurchase Index;0.0192;0.15;<=;OK
+FIDC Koin;30/11/2024;Repurchase Index;0.017;0.15;<=;OK
+FIDC Koin;31/12/2024;Repurchase Index;0.0132;0.15;<=;OK
+FIDC Koin;31/01/2025;Repurchase Index;0.0366;0.15;<=;OK
+FIDC Koin;28/02/2025;Repurchase Index;0.0274;0.15;<=;OK
+FIDC Koin;31/03/2025;Repurchase Index;0.0255;0.15;<=;OK
+FIDC Koin;30/04/2025;Repurchase Index;0.0306;0.15;<=;OK
+FIDC Koin;31/05/2024;Repurchase Index;0.0126;0.15;<=;OK
+FIDC Koin;30/06/2024;Repurchase Index;0.0188;0.15;<=;OK
+FIDC Koin;31/10/2024;Under 30 Index;0.0086;0.12;<=;OK
+FIDC Koin;30/11/2024;Under 30 Index;0.0029;0.12;<=;OK
+FIDC Koin;31/12/2024;Under 30 Index;0.004;0.12;<=;OK
+FIDC Koin;31/01/2025;Under 30 Index;0.0033;0.12;<=;OK
+FIDC Koin;28/02/2025;Under 30 Index;0.0015;0.12;<=;OK
+FIDC Koin;31/03/2025;Under 30 Index;0.0066;0.12;<=;OK
+FIDC Koin;30/04/2025;Under 30 Index;0.0061;0.12;<=;OK
+FIDC Koin;31/05/2024;Under 30 Index;0.0168;0.12;<=;OK
+FIDC Koin;30/06/2024;Under 30 Index;0.005;0.12;<=;OK
+FIDC Koin;31/10/2024;Over 30 Index;0.0291;0.12;<=;OK
+FIDC Koin;30/11/2024;Over 30 Index;0.0208;0.12;<=;OK
+FIDC Koin;31/12/2024;Over 30 Index;0.0177;0.12;<=;OK
+FIDC Koin;31/01/2025;Over 30 Index;0.0144;0.12;<=;OK
+FIDC Koin;28/02/2025;Over 30 Index;0.013;0.12;<=;OK
+FIDC Koin;31/03/2025;Over 30 Index;0.0183;0.12;<=;OK
+FIDC Koin;30/04/2025;Over 30 Index;0.0241;0.12;<=;OK
+FIDC Koin;31/05/2024;Over 30 Index;0.0211;0.12;<=;OK
+FIDC Koin;30/06/2024;Over 30 Index;0.047;0.12;<=;OK
+FIDC Koin;31/10/2024;Over 60 Index;0.0394;0.15;<=;OK
+FIDC Koin;30/11/2024;Over 60 Index;0.0329;0.15;<=;OK
+FIDC Koin;31/12/2024;Over 60 Index;0.0365;0.15;<=;OK
+FIDC Koin;31/01/2025;Over 60 Index;0.0578;0.15;<=;OK
+FIDC Koin;28/02/2025;Over 60 Index;0.0303;0.15;<=;OK
+FIDC Koin;31/03/2025;Over 60 Index;0.0318;0.15;<=;OK
+FIDC Koin;30/04/2025;Over 60 Index;0.0396;0.15;<=;OK
+FIDC Koin;31/05/2024;Over 60 Index;0.0303;0.15;<=;OK
+FIDC Koin;30/06/2024;Over 60 Index;0.0367;0.15;<=;OK
+FIDC Koin;31/10/2024;Over 90 Index;0.0505;0.175;<=;OK
+FIDC Koin;30/11/2024;Over 90 Index;0.0596;0.175;<=;OK
+FIDC Koin;31/12/2024;Over 90 Index;0.1544;0.175;<=;OK
+FIDC Koin;31/01/2025;Over 90 Index;0.057;0.175;<=;OK
+FIDC Koin;28/02/2025;Over 90 Index;0.0517;0.175;<=;OK
+FIDC Koin;31/03/2025;Over 90 Index;0.0541;0.175;<=;OK
+FIDC Koin;30/04/2025;Over 90 Index;0.0947;0.175;<=;OK
+FIDC Koin;31/05/2024;Over 90 Index;0.0504;0.175;<=;OK
+FIDC Koin;30/06/2024;Over 90 Index;0.0537;0.175;<=;OK
+FIDC Pagaleve;30/06/2025;Repurchase Index;0.0399;0.15;<=;OK
+FIDC Pagaleve;31/05/2025;Repurchase Index;0.0399;0.15;<=;OK
+FIDC Pagaleve;30/04/2025;Repurchase Index;0.0288;0.15;<=;OK
+FIDC Culttivo;30/04/2025;% CPR-F;0.8805;;;
+FIDC Culttivo;31/05/2025;% CPR-F;0.9553;;;
+FIDC Culttivo;30/06/2025;% CPR-F;0.9063;;;
+FIDC Culttivo;30/04/2025;% CDA/WA;0.0399;;;
+FIDC Culttivo;31/05/2025;% CDA/WA;0.0225;;;
+FIDC Culttivo;30/06/2025;% CDA/WA;0.015;;;
+FIDC Culttivo;30/04/2025;Coffee Type - Arabica;0.8805;;;
+FIDC Culttivo;31/05/2025;Coffee Type - Arabica;0.9553;;;
+FIDC Culttivo;30/06/2025;Coffee Type - Arabica;0.9063;;;
+FIDC Culttivo;30/04/2025;Coffee Type - Robusta;0.1195;;;
+FIDC Culttivo;31/05/2025;Coffee Type - Robusta;0.0447;;;
+FIDC Culttivo;30/06/2025;Coffee Type - Robusta;0.0937;;;
+FIDC Culttivo;30/04/2025;% Guarantee CPR-F;3.249;;;
+FIDC Culttivo;31/05/2025;% Guarantee CPR-F;2.7938;;;
+FIDC Culttivo;30/06/2025;% Guarantee CPR-F;2.1838;;;
+FIDC Culttivo;30/04/2025;Concentrations by Warehouse - CDA/WA (%PL);0.0399;0.2;<=;OK
+FIDC Culttivo;31/05/2025;Concentrations by Warehouse - CDA/WA (%PL);0.0225;0.2;<=;OK
+FIDC Culttivo;30/06/2025;Concentrations by Warehouse - CDA/WA (%PL);0.015;0.2;<=;OK
+FIDC Culttivo;30/04/2025;Insurance Concentrations - CDA/WA;0.2514;0.3;<=;OK
+FIDC Culttivo;31/05/2025;Insurance Concentrations - CDA/WA;0.1468;0.3;<=;OK
+FIDC Culttivo;30/06/2025;Insurance Concentrations - CDA/WA;0.1073;0.3;<=;OK
+FIDC Culttivo;30/04/2025;Weighted Average Portfolio Rate (% p.m.)  - CPR-F;0.0178;;;
+FIDC Culttivo;31/05/2025;Weighted Average Portfolio Rate (% p.m.)  - CPR-F;0.018;;;
+FIDC Culttivo;30/06/2025;Weighted Average Portfolio Rate (% p.m.)  - CPR-F;0.0192;;;
+FIDC Culttivo;30/04/2025;Weighted Average Portfolio Rate (% p.m.)  - CDA/WA;0;;;
+FIDC Culttivo;31/05/2025;Weighted Average Portfolio Rate (% p.m.)  - CDA/WA;0;;;
+FIDC Culttivo;30/06/2025;Weighted Average Portfolio Rate (% p.m.)  - CDA/WA;0.0192;;;
+FIDC Culttivo;30/04/2025;Debtors Between 1% and 2% of accumulated NetWorth - CPR-F;0.1617;0.15;<=;FLAG
+FIDC Culttivo;31/05/2025;Debtors Between 1% and 2% of accumulated NetWorth - CPR-F;0.162;0.15;<=;FLAG
+FIDC Culttivo;30/06/2025;Debtors Between 1% and 2% of accumulated NetWorth - CPR-F;0.1508;0.15;<=;FLAG
+FIDC Culttivo;30/04/2025;Top 1 Debtor - CPR-F;0.0498;;;
+FIDC Culttivo;31/05/2025;Top 1 Debtor - CPR-F;0.0498;;;
+FIDC Culttivo;30/06/2025;Top 1 Debtor - CPR-F;0.0498;;;
+FIDC Culttivo;30/04/2025;Average CPR-F term (months);4.02;;;
+FIDC Culttivo;31/05/2025;Average CPR-F term (months);4.07;;;
+FIDC Culttivo;30/06/2025;Average CPR-F term (months);4.27;;;
+FIDC Culttivo;30/04/2025;Average CDA/WA term (months);1.51;;;
+FIDC Culttivo;31/05/2025;Average CDA/WA term (months);0.75;;;
+FIDC Culttivo;30/06/2025;Average CDA/WA term (months);11.13;;;
+FIDC Alume;31/05/2025;Personal Loan Concentration;0.537;0.55;<=;OK
+FIDC Alume;30/06/2025;Personal Loan Concentration;0.527;0.55;<=;OK
+FIDC Alume;31/05/2025;Renegotiation Index;0.005;0.15;<=;OK
+FIDC Alume;30/06/2025;Renegotiation Index;0;0.15;<=;OK
+FIDC Alume;31/05/2025;Coverage Ratio;1.1;1;>=;OK
+FIDC Alume;30/06/2025;Coverage Ratio;1.1;1;>=;OK
